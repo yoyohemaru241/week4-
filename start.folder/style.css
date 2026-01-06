@@ -36,3 +36,53 @@ main{text-align: center;
 }
 
 .profile-img{border: 1.4px solid black;border-radius: 3px;}
+
+.skills{background-color: #ffff66;
+padding: 20px;
+border-radius: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+ul li{list-style: none;
+padding: 2px
+;}
+
+.skill-list li{background-color: #dabd2d;
+border-radius: 5px;
+color: rgb(233, 229, 224);}
+
+.portfolio{background-color: #ffff66;
+padding: 20px;
+border-radius: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);}
+
+.portfolio-items img{padding: 10px;
+  display: inline;
+}
+
+.contact-form{max-width: 400px;
+    margin: auto;
+    background:  #ffff66;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);}
+
+label, input, textarea, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button{background-color: darkorchid;
+border-radius: 5px;
+ cursor: pointer;
+}
+
+footer{background-color: rgb(184, 115, 92);
+color: white;
+padding: 13px;
+text-align: center;}
